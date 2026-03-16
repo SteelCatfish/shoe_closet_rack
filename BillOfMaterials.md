@@ -2,5 +2,4 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|1"Dowel|6|$18.00|www.example.com|
-|Total: |6|$18.00| |
+|Total: |0|$0.00| |
